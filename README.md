@@ -5,4 +5,4 @@
 ## 문제 유형별 풀이
 
 ### 1. 투 포인터 (Two Pointers) & 슬라이딩 윈도우 (Sliding Window)
-- [두 배열 합치기](src/two_pointer_sliding_window/MergeTwoArrays.java) : 섹션4.1
+- [두 배열 합치기](src/two_pointer_sliding_window/MergeTwoArrays.java) : 섹션 4.1
