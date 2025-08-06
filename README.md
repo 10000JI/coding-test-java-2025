@@ -6,3 +6,4 @@
 
 ### 1. 투 포인터 (Two Pointers) & 슬라이딩 윈도우 (Sliding Window)
 - [두 배열 합치기](src/two_pointer_sliding_window/MergeTwoArrays.java) : 섹션 4.1
+- [공통원소구하기](src/two_pointer_sliding_window/CommonElements.java) : 섹션 4.2
