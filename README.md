@@ -9,3 +9,4 @@
 - [공통원소구하기](src/two_pointer_sliding_window/CommonElements.java) : 섹션 4.2
 - [최대매출](src/two_pointer_sliding_window/MaxSales.java) : 섹션 4.3
 - [연속부분수열](src/two_pointer_sliding_window/SubarrayProblem.java) : 섹션 4.4
+- [연속된 자연수의 합](src/two_pointer_sliding_window/ConsecutiveSum.java) : 섹션 4.5
