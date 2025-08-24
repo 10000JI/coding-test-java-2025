@@ -11,3 +11,6 @@
 - [연속부분수열](src/two_pointer_sliding_window/SubarrayProblem.java) : 섹션 4.4
 - [연속된 자연수의 합](src/two_pointer_sliding_window/ConsecutiveSum.java) : 섹션 4.5
 - [최대 길이 연속부분수열](src/two_pointer_sliding_window/LongestConsecutiveSubsequence.java) : 섹션 4.6
+
+### 2. HashMap & TreeSet (해쉬, 정렬지원 Set)
+- [학급 회장(해시)](src/hashmap_treeset/ClassPresident.java) : 섹션 5.1
